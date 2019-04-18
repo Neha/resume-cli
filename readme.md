@@ -25,7 +25,7 @@ It is based on nodjes and used few packages.
 
 ### Known Issues
 
-1. Lot of content is hardcoded.
+1. Lot of content is hardcoded .
 2. Need to refactor the logic of `response.js`.
 3. No direct options to select and query.
 
