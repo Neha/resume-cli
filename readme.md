@@ -18,6 +18,16 @@ As of now it is not publish anywhere.So, we will go old-school way to run it.
 
 `node main.js`
 
+## :gem: Shortcuts
+
+| Shortcuts | Link       |
+| --------- | ---------- |
+| -A        | About me   |
+| -S        | Summary    |
+| -E        | Experience |
+| -T        | Techstack  |
+| -C        | Contact me |
+
 ### :gem: Tech-stack used
 
 It is based on nodjes and used few packages.
@@ -33,13 +43,14 @@ It is based on nodjes and used few packages.
 
 1. Lot of content is hardcoded.
 2. Need to refactor the logic of `response.js`.
-3. No direct options to select and query.
 
 ### :memo: To-Do
 
 1. To fix all the known issues.
 2. Add themes options for fonts.
 3. Publish as npm package.
+4. Need to update the content.
+5. Need to refactor the code-base and code.
 
 ### :hearts: Collabrations
 
