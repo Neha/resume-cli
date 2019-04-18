@@ -12,6 +12,12 @@ As of now there are below options:
 - Tech Skills
 - Experience
 
+### :gem: How to use it?
+
+As of now it is not publish anywhere.So, we will go old-school way to run it.
+
+`node main.js`
+
 ### :gem: Tech-stack used
 
 It is based on nodjes and used few packages.
