@@ -31,7 +31,8 @@ It is based on nodjes and used few packages.
 
 ### To-Do
 
-to fix all the known issues.
+1. To fix all the known issues.
+2. Add themes options for fonts.
 
 ### Collabrations
 
