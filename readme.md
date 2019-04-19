@@ -26,7 +26,7 @@ As of now it is not publish anywhere.So, we will go old-school way to run it.
 | -S        | Summary    |
 | -E        | Experience |
 | -T        | Techstack  |
-| -C        | Contact me |
+| -M        | Contact me |
 
 ### :gem: Tech-stack used
 
@@ -56,6 +56,7 @@ It is based on nodjes and used few packages.
 3. Publish as npm package.
 4. Need to update the content.
 5. Need to refactor the code-base and code.
+6. Add help section.
 
 ### :hearts: Collabrations
 
