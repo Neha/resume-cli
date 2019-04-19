@@ -1,6 +1,6 @@
 const chalk = require("chalk");
 const Welcome = require("./Welcome-message");
-const index = require("./commands/index");
+const index = require("./commands");
 const console = require("console");
 
 /* init method */

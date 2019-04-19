@@ -4,7 +4,7 @@ const console = require("console");
 
 const TechStack = () => {
   console.log(chalk.yellow(content.techstack));
-  // index();
+  console.log(chalk.yellow("\n================================\n"));
 };
 
 module.exports = TechStack;

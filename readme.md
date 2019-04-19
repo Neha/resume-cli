@@ -44,6 +44,11 @@ It is based on nodjes and used few packages.
 1. Lot of content is hardcoded.
 2. Need to refactor the logic of `response.js`.
 
+### :warning: What's New
+
+1. Added Exit and Go Back option.
+2. Added Line break options in the content.
+
 ### :memo: To-Do
 
 1. To fix all the known issues.
