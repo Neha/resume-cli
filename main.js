@@ -7,6 +7,9 @@ const console = require("console");
 const Main = () => {
   Welcome();
   console.log(chalk.red("Welcome to My Resume!!"));
+  console.log(
+    chalk.red("\n ============================================== \n")
+  );
   index();
 };
 

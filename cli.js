@@ -1,4 +1,3 @@
-/* Options */
 const program = require("commander");
 const experience = require("./commands/experience");
 const aboutme = require("./commands/aboutme");
@@ -10,7 +9,7 @@ program
   .version("0.1.0")
   .option("-E, --experience", "show experience")
   .option("-S, --summary", "show summary")
-  .option("-C, --contactme", "contactme")
+  .option("-M, --contactme", "contactme")
   .option("-A, --aboutme", "aboutme")
   .option("-T, --techstack", "techstack")
   .parse(process.argv);
